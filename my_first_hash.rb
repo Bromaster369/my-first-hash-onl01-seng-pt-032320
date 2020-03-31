@@ -6,8 +6,9 @@ end
 
 def shipping_manifest
   the_manifest = {
-    "whale_bone_corsets" => 5, 
-    "porcelain_vase"
+    "whale bone corsets" => 5, 
+    "porcelain vase" => 2,
+    "ol paintings" => 3
     
   } 
   # set a variable called `the_manifest`, equal to a hash
